@@ -1,0 +1,2352 @@
+{
+  "records": [
+    {
+      "id": "B1",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "JM",
+          "name": "Aldrich",
+          "lastname": "Aldrich"
+        }
+      ],
+      "year": "1905",
+      "citation": "Aldrich (1905): "
+    },
+    {
+      "id": "B2",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "S",
+          "name": "Andersen",
+          "lastname": "Andersen"
+        }
+      ],
+      "year": "1996",
+      "citation": "Andersen (1996): "
+    },
+    {
+      "id": "B3",
+      "type": "article",
+      "title": "The entomological publications of Charles Henry Tyler Townsend [1863\u20131944]; with lists of his new generic and specific names.",
+      "author": [
+        {
+          "firstname": "PH Jr",
+          "name": "Arnaud",
+          "lastname": "Arnaud"
+        }
+      ],
+      "journal": {
+        "name": "Microentomology",
+        "volume": "23",
+        "pages": "1--63"
+      },
+      "year": "1958",
+      "citation": "Arnaud (1958) The entomological publications of Charles Henry Tyler Townsend [1863\u20131944]; with lists of his new generic and specific names.. Microentomology, 23: 1--63"
+    },
+    {
+      "id": "B4",
+      "type": "article",
+      "title": "The systematics of the Australasian Dexiini (Diptera: Tachinidae: Dexiinae) with revisions of endemic genera.",
+      "author": [
+        {
+          "firstname": "DA",
+          "name": "Barraclough",
+          "lastname": "Barraclough"
+        }
+      ],
+      "journal": {
+        "name": "Invertebrate Taxonomy",
+        "volume": "6",
+        "pages": "1127--1371"
+      },
+      "year": "1992",
+      "citation": "Barraclough (1992) The systematics of the Australasian Dexiini (Diptera: Tachinidae: Dexiinae) with revisions of endemic genera.. Invertebrate Taxonomy, 6: 1127--1371"
+    },
+    {
+      "id": "B5",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "R",
+          "name": "Belshaw",
+          "lastname": "Belshaw"
+        }
+      ],
+      "year": "1993",
+      "citation": "Belshaw (1993): "
+    },
+    {
+      "id": "B6",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "M",
+          "name": "Bezzi",
+          "lastname": "Bezzi"
+        },
+        {
+          "firstname": "P",
+          "name": "Stein",
+          "lastname": "Stein"
+        }
+      ],
+      "year": "1907",
+      "citation": "Bezzi, Stein (1907): "
+    },
+    {
+      "id": "B7",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "F",
+          "name": "Brauer",
+          "lastname": "Brauer"
+        },
+        {
+          "firstname": "JE von",
+          "name": "Bergenstamm",
+          "lastname": "Bergenstamm"
+        }
+      ],
+      "year": "1889\u20131895",
+      "citation": "Brauer, Bergenstamm (1889\u20131895): "
+    },
+    {
+      "id": "B8",
+      "type": "article",
+      "title": "Synopsis of the Australian Phasiinae, including revisions of ",
+      "author": [
+        {
+          "firstname": "BK",
+          "name": "Cantrell",
+          "lastname": "Cantrell"
+        }
+      ],
+      "journal": {
+        "name": "Australian Journal of Zoology. Supplementary Series",
+        "volume": "102",
+        "pages": "1--60"
+      },
+      "year": "1984",
+      "identifier": [
+        {
+          "type": "doi",
+          "id": "10.1071\/AJZS102"
+        }
+      ],
+      "citation": "Cantrell (1984) Synopsis of the Australian Phasiinae, including revisions of . Australian Journal of Zoology. Supplementary Series, 102: 1--60"
+    },
+    {
+      "id": "B9",
+      "type": "article",
+      "title": "The comparative morphology of the male and female postabdomen of the Australian Tachinidae (Diptera), with descriptions of some first-instar larvae and pupae.",
+      "author": [
+        {
+          "firstname": "BK",
+          "name": "Cantrell",
+          "lastname": "Cantrell"
+        }
+      ],
+      "journal": {
+        "name": "Invertebrate Taxonomy",
+        "volume": "2",
+        "pages": "81--221"
+      },
+      "year": "1988",
+      "citation": "Cantrell (1988) The comparative morphology of the male and female postabdomen of the Australian Tachinidae (Diptera), with descriptions of some first-instar larvae and pupae.. Invertebrate Taxonomy, 2: 81--221"
+    },
+    {
+      "id": "B10",
+      "type": "article",
+      "title": "The tribe Dufouriini (Diptera: Tachinidae: Dexiinae) recorded from Australia with the description of two new species.",
+      "author": [
+        {
+          "firstname": "BK",
+          "name": "Cantrell",
+          "lastname": "Cantrell"
+        },
+        {
+          "firstname": "CJ",
+          "name": "Burwell",
+          "lastname": "Burwell"
+        }
+      ],
+      "journal": {
+        "name": "Memoirs of the Queensland Museum",
+        "volume": "55",
+        "pages": "119--133"
+      },
+      "year": "2010",
+      "citation": "Cantrell, Burwell (2010) The tribe Dufouriini (Diptera: Tachinidae: Dexiinae) recorded from Australia with the description of two new species.. Memoirs of the Queensland Museum, 55: 119--133"
+    },
+    {
+      "id": "B11",
+      "type": "article",
+      "title": "Family Tachinidae.",
+      "author": [
+        {
+          "firstname": "NL",
+          "name": "Evenhuis",
+          "lastname": "Evenhuis"
+        }
+      ],
+      "journal": {
+        "name": "[Bishop Museum Special Publication 86.] Bishop Museum Press, EJ Brill",
+        "pages": "733--784"
+      },
+      "year": "1989",
+      "citation": "Evenhuis (1989) Family Tachinidae.. [Bishop Museum Special Publication 86.] Bishop Museum Press, EJ Brill: 733--784"
+    },
+    {
+      "id": "B12",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "P",
+          "name": "Cerretti",
+          "lastname": "Cerretti"
+        }
+      ],
+      "year": "2010",
+      "citation": "Cerretti (2010): "
+    },
+    {
+      "id": "B13",
+      "type": "article",
+      "title": "MOSCHweb \u2014 a matrix-based interactive key to the genera of the Palaearctic Tachinidae (Insecta, Diptera).",
+      "author": [
+        {
+          "firstname": "P",
+          "name": "Cerretti",
+          "lastname": "Cerretti"
+        },
+        {
+          "firstname": "H-P",
+          "name": "Tschorsnig",
+          "lastname": "Tschorsnig"
+        },
+        {
+          "firstname": "M",
+          "name": "Lopresti",
+          "lastname": "Lopresti"
+        },
+        {
+          "firstname": "Giovanni F",
+          "name": "Di",
+          "lastname": "Di"
+        }
+      ],
+      "journal": {
+        "name": "ZooKeys",
+        "volume": "205",
+        "pages": "5--18"
+      },
+      "year": "2012",
+      "identifier": [
+        {
+          "type": "doi",
+          "id": "10.3897\/zookeys.205.3409"
+        }
+      ],
+      "citation": "Cerretti, Tschorsnig, Lopresti, Di (2012) MOSCHweb \u2014 a matrix-based interactive key to the genera of the Palaearctic Tachinidae (Insecta, Diptera).. ZooKeys, 205: 5--18"
+    },
+    {
+      "id": "B14",
+      "type": "article",
+      "title": "Neoethilla",
+      "author": [
+        {
+          "firstname": "P",
+          "name": "Cerretti",
+          "lastname": "Cerretti"
+        },
+        {
+          "firstname": "MD",
+          "name": "Wood",
+          "lastname": "Wood"
+        },
+        {
+          "firstname": "JE",
+          "name": "O\u2019Hara",
+          "lastname": "O\u2019Hara"
+        }
+      ],
+      "journal": {
+        "name": "ZooKeys",
+        "volume": "242",
+        "pages": "25--41"
+      },
+      "year": "2012",
+      "identifier": [
+        {
+          "type": "doi",
+          "id": "10.3897\/zookeys.242.3974"
+        }
+      ],
+      "citation": "Cerretti, Wood, O\u2019Hara (2012) Neoethilla. ZooKeys, 242: 25--41"
+    },
+    {
+      "id": "B15",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "CM",
+          "name": "Chao",
+          "lastname": "Chao"
+        }
+      ],
+      "year": "1998",
+      "citation": "Chao (1998): "
+    },
+    {
+      "id": "B16",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "DW",
+          "name": "Coquillett",
+          "lastname": "Coquillett"
+        }
+      ],
+      "year": "1897",
+      "citation": "Coquillett (1897): "
+    },
+    {
+      "id": "B17",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "RW",
+          "name": "Crosskey",
+          "lastname": "Crosskey"
+        }
+      ],
+      "year": "1973a",
+      "citation": "Crosskey (1973a): "
+    },
+    {
+      "id": "B18",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "RW",
+          "name": "Crosskey",
+          "lastname": "Crosskey"
+        }
+      ],
+      "year": "1973b",
+      "citation": "Crosskey (1973b): "
+    },
+    {
+      "id": "B19",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "RW",
+          "name": "Crosskey",
+          "lastname": "Crosskey"
+        }
+      ],
+      "year": "1976",
+      "citation": "Crosskey (1976): "
+    },
+    {
+      "id": "B20",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "RW",
+          "name": "Crosskey",
+          "lastname": "Crosskey"
+        }
+      ],
+      "year": "1980a",
+      "citation": "Crosskey (1980a): "
+    },
+    {
+      "id": "B21",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "RW",
+          "name": "Crosskey",
+          "lastname": "Crosskey"
+        }
+      ],
+      "year": "1980b",
+      "citation": "Crosskey (1980b): "
+    },
+    {
+      "id": "B22",
+      "type": "article",
+      "title": "Annotated keys to the genera of Tachinidae (Diptera) found in tropical and southern Africa.",
+      "author": [
+        {
+          "firstname": "RW",
+          "name": "Crosskey",
+          "lastname": "Crosskey"
+        }
+      ],
+      "journal": {
+        "name": "Annals of the Natal Museum",
+        "volume": "26",
+        "pages": "189--337"
+      },
+      "year": "1984",
+      "citation": "Crosskey (1984) Annotated keys to the genera of Tachinidae (Diptera) found in tropical and southern Africa.. Annals of the Natal Museum, 26: 189--337"
+    },
+    {
+      "id": "B23",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "CH",
+          "name": "Curran",
+          "lastname": "Curran"
+        }
+      ],
+      "year": "1934",
+      "citation": "Curran (1934): "
+    },
+    {
+      "id": "B24",
+      "type": "article",
+      "title": "A classification of the New Zealand genera of Tachinidae (Diptera: Cyclorrhapha).",
+      "author": [
+        {
+          "firstname": "JS",
+          "name": "Dugdale",
+          "lastname": "Dugdale"
+        }
+      ],
+      "journal": {
+        "name": "New Zealand Journal of Science",
+        "volume": "12",
+        "pages": "606--646"
+      },
+      "year": "1969",
+      "citation": "Dugdale (1969) A classification of the New Zealand genera of Tachinidae (Diptera: Cyclorrhapha).. New Zealand Journal of Science, 12: 606--646"
+    },
+    {
+      "id": "B25",
+      "type": "article",
+      "title": "Essai monographique sur les Phasiinae (Dipt\u00e8res Tachinaires parasitse d\u2019H\u00e9t\u00e9ropt\u00e8res).",
+      "author": [
+        {
+          "firstname": "C",
+          "name": "Dupuis",
+          "lastname": "Dupuis"
+        }
+      ],
+      "journal": {
+        "name": "M\u00e9moires du Mus\u00e9um National d\u2019Histoire Naturelle, S\u00e9rie A, Zoologie",
+        "volume": "26",
+        "pages": "1--461"
+      },
+      "year": "1963",
+      "citation": "Dupuis (1963) Essai monographique sur les Phasiinae (Dipt\u00e8res Tachinaires parasitse d\u2019H\u00e9t\u00e9ropt\u00e8res).. M\u00e9moires du Mus\u00e9um National d\u2019Histoire Naturelle, S\u00e9rie A, Zoologie, 26: 1--461"
+    },
+    {
+      "id": "B26",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "FI van",
+          "name": "Emden",
+          "lastname": "Emden"
+        }
+      ],
+      "year": "1945",
+      "citation": "Emden (1945): "
+    },
+    {
+      "id": "B27",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "FI van",
+          "name": "Emden",
+          "lastname": "Emden"
+        }
+      ],
+      "year": "1947",
+      "citation": "Emden (1947): "
+    },
+    {
+      "id": "B28",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "FI van",
+          "name": "Emden",
+          "lastname": "Emden"
+        }
+      ],
+      "year": "1954",
+      "citation": "Emden (1954): "
+    },
+    {
+      "id": "B29",
+      "type": "article",
+      "title": "Keys to the Ethiopian Tachinidae\u2014III. Macquartiinae.",
+      "author": [
+        {
+          "firstname": "FI ",
+          "name": "van Emden",
+          "lastname": "van Emden"
+        }
+      ],
+      "journal": {
+        "name": "Proceedings of the Zoological Society of London",
+        "volume": "134",
+        "pages": "313--487"
+      },
+      "year": "1960",
+      "citation": "van Emden (1960) Keys to the Ethiopian Tachinidae\u2014III. Macquartiinae.. Proceedings of the Zoological Society of London, 134: 313--487"
+    },
+    {
+      "id": "B30",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "NL",
+          "name": "Evenhuis",
+          "lastname": "Evenhuis"
+        }
+      ],
+      "year": "1997",
+      "citation": "Evenhuis (1997): "
+    },
+    {
+      "id": "B31",
+      "type": "article",
+      "title": "The status of Mesnil\u2019s 1949 Die Fliegen genus-group names (Diptera: Tachinidae).",
+      "author": [
+        {
+          "firstname": "NL",
+          "name": "Evenhuis",
+          "lastname": "Evenhuis"
+        },
+        {
+          "firstname": "JE",
+          "name": "O\u2019Hara",
+          "lastname": "O\u2019Hara"
+        }
+      ],
+      "journal": {
+        "name": "Zootaxa",
+        "volume": "1827",
+        "pages": "65--68"
+      },
+      "year": "2008",
+      "citation": "Evenhuis, O\u2019Hara (2008) The status of Mesnil\u2019s 1949 Die Fliegen genus-group names (Diptera: Tachinidae).. Zootaxa, 1827: 65--68"
+    },
+    {
+      "id": "B32",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "NL",
+          "name": "Evenhuis",
+          "lastname": "Evenhuis"
+        },
+        {
+          "firstname": "JE",
+          "name": "O\u2019Hara",
+          "lastname": "O\u2019Hara"
+        },
+        {
+          "firstname": "T",
+          "name": "Pape",
+          "lastname": "Pape"
+        },
+        {
+          "firstname": "AC",
+          "name": "Pont",
+          "lastname": "Pont"
+        }
+      ],
+      "year": "2010",
+      "citation": "Evenhuis, O\u2019Hara, Pape, Pont (2010): "
+    },
+    {
+      "id": "B33",
+      "type": "article",
+      "title": "The problems of subsequent typification in genus-group names and use of the ",
+      "author": [
+        {
+          "firstname": "NL",
+          "name": "Evenhuis",
+          "lastname": "Evenhuis"
+        },
+        {
+          "firstname": "T",
+          "name": "Pape",
+          "lastname": "Pape"
+        },
+        {
+          "firstname": "AC",
+          "name": "Pont",
+          "lastname": "Pont"
+        }
+      ],
+      "journal": {
+        "name": "Zootaxa",
+        "volume": "1912",
+        "pages": "1--44"
+      },
+      "year": "2008",
+      "citation": "Evenhuis, Pape, Pont (2008) The problems of subsequent typification in genus-group names and use of the . Zootaxa, 1912: 1--44"
+    },
+    {
+      "id": "B34",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "R",
+          "name": "Frey",
+          "lastname": "Frey"
+        }
+      ],
+      "year": "1921",
+      "citation": "Frey (1921): "
+    },
+    {
+      "id": "B35",
+      "type": "article",
+      "title": "Beitrag zur Systematik der Musciden.",
+      "author": [
+        {
+          "firstname": "E",
+          "name": "Girschner",
+          "lastname": "Girschner"
+        }
+      ],
+      "journal": {
+        "name": "Berliner Entomologische Zeitschrift",
+        "volume": "38",
+        "pages": "297--312"
+      },
+      "year": "1893",
+      "citation": "Girschner (1893) Beitrag zur Systematik der Musciden.. Berliner Entomologische Zeitschrift, 38: 297--312"
+    },
+    {
+      "id": "B36",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "E",
+          "name": "Girschner",
+          "lastname": "Girschner"
+        }
+      ],
+      "year": "1896",
+      "citation": "Girschner (1896): "
+    },
+    {
+      "id": "B37",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "JH",
+          "name": "Guimar\u00e3es",
+          "lastname": "Guimar\u00e3es"
+        }
+      ],
+      "year": "1971",
+      "citation": "Guimar\u00e3es (1971): "
+    },
+    {
+      "id": "B38",
+      "type": "article",
+      "title": "Das weibliche Postabdomen der calyptraten Fliegen (Diptera) und sein Merkmalswert f\u00fcr die Systematik der gruppe.",
+      "author": [
+        {
+          "firstname": "B",
+          "name": "Herting",
+          "lastname": "Herting"
+        }
+      ],
+      "journal": {
+        "name": "Zeitschrift f\u00fcr Morphologie und \u00d6kologie der Tiere",
+        "volume": "45",
+        "pages": "429--461"
+      },
+      "year": "1957",
+      "citation": "Herting (1957) Das weibliche Postabdomen der calyptraten Fliegen (Diptera) und sein Merkmalswert f\u00fcr die Systematik der gruppe.. Zeitschrift f\u00fcr Morphologie und \u00d6kologie der Tiere, 45: 429--461"
+    },
+    {
+      "id": "B39",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "B",
+          "name": "Herting",
+          "lastname": "Herting"
+        }
+      ],
+      "year": "1960",
+      "citation": "Herting (1960): "
+    },
+    {
+      "id": "B40",
+      "type": "article",
+      "title": "Beitr\u00e4ge zur Kenntnis der europ\u00e4ischen Raupenfliegen (Dipt. Tachinidae). IX.",
+      "author": [
+        {
+          "firstname": "B",
+          "name": "Herting",
+          "lastname": "Herting"
+        }
+      ],
+      "journal": {
+        "name": "Stuttgarter Beitr\u00e4ge zur Naturkunde",
+        "volume": "146",
+        "pages": "1--12"
+      },
+      "year": "1966",
+      "citation": "Herting (1966) Beitr\u00e4ge zur Kenntnis der europ\u00e4ischen Raupenfliegen (Dipt. Tachinidae). IX.. Stuttgarter Beitr\u00e4ge zur Naturkunde, 146: 1--12"
+    },
+    {
+      "id": "B41",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "B",
+          "name": "Herting",
+          "lastname": "Herting"
+        }
+      ],
+      "year": "1983",
+      "citation": "Herting (1983): "
+    },
+    {
+      "id": "B42",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "B",
+          "name": "Herting",
+          "lastname": "Herting"
+        }
+      ],
+      "year": "1984",
+      "citation": "Herting (1984): "
+    },
+    {
+      "id": "B43",
+      "type": "article",
+      "title": "Louis Paul Mesnil. Entomologe.",
+      "author": [
+        {
+          "firstname": "B",
+          "name": "Herting",
+          "lastname": "Herting"
+        }
+      ],
+      "journal": {
+        "name": "Jahreshefte der Gesellschaft f\u00fcr Naturkunde in W\u00fcrttemberg",
+        "volume": "142",
+        "pages": "314--316"
+      },
+      "year": "1987",
+      "citation": "Herting (1987) Louis Paul Mesnil. Entomologe.. Jahreshefte der Gesellschaft f\u00fcr Naturkunde in W\u00fcrttemberg, 142: 314--316"
+    },
+    {
+      "id": "B44",
+      "type": "article",
+      "title": "Family Tachinidae.",
+      "author": [
+        {
+          "firstname": "\u00c1",
+          "name": "So\u00f3s",
+          "lastname": "So\u00f3s"
+        },
+        {
+          "firstname": "L",
+          "name": "Papp",
+          "lastname": "Papp"
+        }
+      ],
+      "journal": {
+        "name": "Volume 13. Anthomyiidae\u2014Tachinidae. Hungarian Natural History Museum, Budapest",
+        "pages": "118--458"
+      },
+      "year": "1993",
+      "citation": "So\u00f3s, Papp (1993) Family Tachinidae.. Volume 13. Anthomyiidae\u2014Tachinidae. Hungarian Natural History Museum, Budapest: 118--458"
+    },
+    {
+      "id": "B45",
+      "type": "article",
+      "title": "Opinion 678. The suppression under the Plenary Powers of the pamphlet published by Meigen, 1800.",
+      "journal": {
+        "name": "Bulletin of Zoological Nomenclature",
+        "volume": "20",
+        "pages": "339--342"
+      },
+      "year": "1963",
+      "citation": "(1963) Opinion 678. The suppression under the Plenary Powers of the pamphlet published by Meigen, 1800.. Bulletin of Zoological Nomenclature, 20: 339--342"
+    },
+    {
+      "id": "B46",
+      "type": "article",
+      "title": "Molecular phylogeny of the Calyptratae (Diptera: Cyclorrhapha) with an emphasis on the superfamily Oestroidea and the position of Mystacinobiidae and McAlpine\u2019s fly.",
+      "author": [
+        {
+          "firstname": "SN",
+          "name": "Kutty",
+          "lastname": "Kutty"
+        },
+        {
+          "firstname": "T",
+          "name": "Pape",
+          "lastname": "Pape"
+        },
+        {
+          "firstname": "BM",
+          "name": "Wiegmann",
+          "lastname": "Wiegmann"
+        },
+        {
+          "firstname": "R",
+          "name": "Meier",
+          "lastname": "Meier"
+        }
+      ],
+      "journal": {
+        "name": "Systematic Entomology",
+        "volume": "35",
+        "pages": "614--635"
+      },
+      "year": "2010",
+      "citation": "Kutty, Pape, Wiegmann, Meier (2010) Molecular phylogeny of the Calyptratae (Diptera: Cyclorrhapha) with an emphasis on the superfamily Oestroidea and the position of Mystacinobiidae and McAlpine\u2019s fly.. Systematic Entomology, 35: 614--635"
+    },
+    {
+      "id": "B47",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "E",
+          "name": "Lindner",
+          "lastname": "Lindner"
+        }
+      ],
+      "year": "1933",
+      "citation": "Lindner (1933): "
+    },
+    {
+      "id": "B48",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "W",
+          "name": "Lundbeck",
+          "lastname": "Lundbeck"
+        }
+      ],
+      "year": "1927",
+      "citation": "Lundbeck (1927): "
+    },
+    {
+      "id": "B49",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "J",
+          "name": "Macquart",
+          "lastname": "Macquart"
+        }
+      ],
+      "year": "1838\u20131855",
+      "citation": "Macquart (1838\u20131855): "
+    },
+    {
+      "id": "B50",
+      "type": "article",
+      "title": "A new character for differentiating the families of Muscoidea (Dipt.).",
+      "author": [
+        {
+          "firstname": "JR",
+          "name": "Malloch",
+          "lastname": "Malloch"
+        }
+      ],
+      "journal": {
+        "name": "Entomological News",
+        "volume": "34",
+        "pages": "57--58"
+      },
+      "year": "1923",
+      "citation": "Malloch (1923) A new character for differentiating the families of Muscoidea (Dipt.).. Entomological News, 34: 57--58"
+    },
+    {
+      "id": "B51",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "JF",
+          "name": "McAlpine",
+          "lastname": "McAlpine"
+        }
+      ],
+      "year": "1989",
+      "citation": "McAlpine (1989): "
+    },
+    {
+      "id": "B52",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "JW",
+          "name": "Meigen",
+          "lastname": "Meigen"
+        }
+      ],
+      "year": "1800",
+      "citation": "Meigen (1800): "
+    },
+    {
+      "id": "B53",
+      "type": "article",
+      "title": "Versuch einer neuen GattungsEintheilung der europ\u00e4ischen zweifl\u00fcgligen Insekten.",
+      "author": [
+        {
+          "firstname": "JW",
+          "name": "Meigen",
+          "lastname": "Meigen"
+        }
+      ],
+      "journal": {
+        "name": "Magazin f\u00fcr Insektenkunde",
+        "volume": "2",
+        "pages": "259--281"
+      },
+      "year": "1803",
+      "citation": "Meigen (1803) Versuch einer neuen GattungsEintheilung der europ\u00e4ischen zweifl\u00fcgligen Insekten.. Magazin f\u00fcr Insektenkunde, 2: 259--281"
+    },
+    {
+      "id": "B54",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "LP",
+          "name": "Mesnil",
+          "lastname": "Mesnil"
+        }
+      ],
+      "year": "1939",
+      "citation": "Mesnil (1939): "
+    },
+    {
+      "id": "B55",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "LP",
+          "name": "Mesnil",
+          "lastname": "Mesnil"
+        }
+      ],
+      "year": "1944",
+      "citation": "Mesnil (1944): "
+    },
+    {
+      "id": "B56",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "LP",
+          "name": "Mesnil",
+          "lastname": "Mesnil"
+        }
+      ],
+      "year": "1944\u20131956",
+      "citation": "Mesnil (1944\u20131956): "
+    },
+    {
+      "id": "B57",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "LP",
+          "name": "Mesnil",
+          "lastname": "Mesnil"
+        }
+      ],
+      "year": "1944\u20131975",
+      "citation": "Mesnil (1944\u20131975): "
+    },
+    {
+      "id": "B58",
+      "type": "article",
+      "title": "Revision des Phorocerini de l\u2019Ancien Monde (Larvaevoridae). Encyclop\u00e9die Entomologique. S\u00e9rie B. M\u00e9moires et Notes. II.",
+      "author": [
+        {
+          "firstname": "LP",
+          "name": "Mesnil",
+          "lastname": "Mesnil"
+        }
+      ],
+      "journal": {
+        "name": "Diptera",
+        "volume": "10",
+        "pages": "37--80"
+      },
+      "year": "1946",
+      "citation": "Mesnil (1946) Revision des Phorocerini de l\u2019Ancien Monde (Larvaevoridae). Encyclop\u00e9die Entomologique. S\u00e9rie B. M\u00e9moires et Notes. II.. Diptera, 10: 37--80"
+    },
+    {
+      "id": "B59",
+      "type": "article",
+      "title": ". Notice sur Joseph Villeneuve de Janti avec liste bibliographique.",
+      "author": [
+        {
+          "firstname": "LP",
+          "name": "Mesnil",
+          "lastname": "Mesnil"
+        }
+      ],
+      "journal": {
+        "name": "Bulletin de l\u2019Institut Royal des Sciences Naturelles de Belgique",
+        "volume": "26",
+        "issue": "7",
+        "pages": "1--22"
+      },
+      "year": "1950",
+      "citation": "Mesnil (1950) . Notice sur Joseph Villeneuve de Janti avec liste bibliographique.. Bulletin de l\u2019Institut Royal des Sciences Naturelles de Belgique, 26(7): 1--22"
+    },
+    {
+      "id": "B60",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "LP",
+          "name": "Mesnil",
+          "lastname": "Mesnil"
+        }
+      ],
+      "year": "1956\u20131965",
+      "citation": "Mesnil (1956\u20131965): "
+    },
+    {
+      "id": "B61",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "LP",
+          "name": "Mesnil",
+          "lastname": "Mesnil"
+        }
+      ],
+      "year": "1966",
+      "citation": "Mesnil (1966): "
+    },
+    {
+      "id": "B62",
+      "type": "article",
+      "title": "64g. Larvaevorinae (Tachininae). [III. Larvaevorini oder Tachinini.",
+      "author": [
+        {
+          "firstname": "LP",
+          "name": "Mesnil",
+          "lastname": "Mesnil"
+        }
+      ],
+      "journal": {
+        "name": "] Die Fliegen der palaearktischen Region",
+        "volume": "10",
+        "pages": "881--1374"
+      },
+      "year": "1966\u20131975",
+      "citation": "Mesnil (1966\u20131975) 64g. Larvaevorinae (Tachininae). [III. Larvaevorini oder Tachinini.. ] Die Fliegen der palaearktischen Region, 10: 881--1374"
+    },
+    {
+      "id": "B63",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "LP",
+          "name": "Mesnil",
+          "lastname": "Mesnil"
+        }
+      ],
+      "year": "1975a",
+      "citation": "Mesnil (1975a): "
+    },
+    {
+      "id": "B64",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "LP",
+          "name": "Mesnil",
+          "lastname": "Mesnil"
+        }
+      ],
+      "year": "1975b",
+      "citation": "Mesnil (1975b): "
+    },
+    {
+      "id": "B65",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "LP",
+          "name": "Mesnil",
+          "lastname": "Mesnil"
+        }
+      ],
+      "year": "1980",
+      "citation": "Mesnil (1980): "
+    },
+    {
+      "id": "B66",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "F",
+          "name": "Mih\u00e1lyi",
+          "lastname": "Mih\u00e1lyi"
+        }
+      ],
+      "year": "1986",
+      "citation": "Mih\u00e1lyi (1986): "
+    },
+    {
+      "id": "B67",
+      "type": "article",
+      "title": "Systematics of the genus group taxa of the Siphonini (Diptera: Tachinidae).",
+      "author": [
+        {
+          "firstname": "JE",
+          "name": "O\u2019Hara",
+          "lastname": "O\u2019Hara"
+        }
+      ],
+      "journal": {
+        "name": "Quaestiones Entomologicae",
+        "volume": "25",
+        "pages": "1--229"
+      },
+      "year": "1989",
+      "citation": "O\u2019Hara (1989) Systematics of the genus group taxa of the Siphonini (Diptera: Tachinidae).. Quaestiones Entomologicae, 25: 1--229"
+    },
+    {
+      "id": "B68",
+      "type": "article",
+      "title": "The tachinid taxa of Louis P. Mesnil, with notes on nomenclature (Insecta: Diptera).",
+      "author": [
+        {
+          "firstname": "JE",
+          "name": "O\u2019Hara",
+          "lastname": "O\u2019Hara"
+        }
+      ],
+      "journal": {
+        "name": "Canadian Entomologist",
+        "volume": "128",
+        "pages": "115--165"
+      },
+      "year": "1996",
+      "citation": "O\u2019Hara (1996) The tachinid taxa of Louis P. Mesnil, with notes on nomenclature (Insecta: Diptera).. Canadian Entomologist, 128: 115--165"
+    },
+    {
+      "id": "B69",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "JE",
+          "name": "O\u2019Hara",
+          "lastname": "O\u2019Hara"
+        }
+      ],
+      "year": "2002",
+      "citation": "O\u2019Hara (2002): "
+    },
+    {
+      "id": "B70",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "JE",
+          "name": "O\u2019Hara",
+          "lastname": "O\u2019Hara"
+        }
+      ],
+      "year": "2012",
+      "citation": "O\u2019Hara (2012): "
+    },
+    {
+      "id": "B71",
+      "type": "article",
+      "title": "Nomenclatural studies toward a world list of Diptera genus-group names. Part II: Camillo Rondani.",
+      "author": [
+        {
+          "firstname": "JE",
+          "name": "O\u2019Hara",
+          "lastname": "O\u2019Hara"
+        },
+        {
+          "firstname": "P",
+          "name": "Cerretti",
+          "lastname": "Cerretti"
+        },
+        {
+          "firstname": "T",
+          "name": "Pape",
+          "lastname": "Pape"
+        },
+        {
+          "firstname": "NL",
+          "name": "Evenhuis",
+          "lastname": "Evenhuis"
+        }
+      ],
+      "journal": {
+        "name": "Zootaxa",
+        "volume": "3141",
+        "pages": "1--268"
+      },
+      "year": "2011",
+      "citation": "O\u2019Hara, Cerretti, Pape, Evenhuis (2011) Nomenclatural studies toward a world list of Diptera genus-group names. Part II: Camillo Rondani.. Zootaxa, 3141: 1--268"
+    },
+    {
+      "id": "B72",
+      "type": "article",
+      "title": "Annotated catalogue of the Tachinidae (Insecta: Diptera) of China.",
+      "author": [
+        {
+          "firstname": "JE",
+          "name": "O\u2019Hara",
+          "lastname": "O\u2019Hara"
+        },
+        {
+          "firstname": "H",
+          "name": "Shima",
+          "lastname": "Shima"
+        },
+        {
+          "firstname": "CT",
+          "name": "Zhang",
+          "lastname": "Zhang"
+        }
+      ],
+      "journal": {
+        "name": "Zootaxa",
+        "volume": "2190",
+        "pages": "1--236"
+      },
+      "year": "2009",
+      "citation": "O\u2019Hara, Shima, Zhang (2009) Annotated catalogue of the Tachinidae (Insecta: Diptera) of China.. Zootaxa, 2190: 1--236"
+    },
+    {
+      "id": "B73",
+      "type": "article",
+      "title": "Tachinidae (Diptera): nomenclatural review and changes, primarily for America north of Mexico.",
+      "author": [
+        {
+          "firstname": "JE",
+          "name": "O\u2019Hara",
+          "lastname": "O\u2019Hara"
+        },
+        {
+          "firstname": "DM",
+          "name": "Wood",
+          "lastname": "Wood"
+        }
+      ],
+      "journal": {
+        "name": "Canadian Entomologist",
+        "volume": "130",
+        "pages": "751--774"
+      },
+      "year": "1998",
+      "citation": "O\u2019Hara, Wood (1998) Tachinidae (Diptera): nomenclatural review and changes, primarily for America north of Mexico.. Canadian Entomologist, 130: 751--774"
+    },
+    {
+      "id": "B74",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "JE",
+          "name": "O\u2019Hara",
+          "lastname": "O\u2019Hara"
+        },
+        {
+          "firstname": "DM",
+          "name": "Wood",
+          "lastname": "Wood"
+        }
+      ],
+      "year": "2004",
+      "citation": "O\u2019Hara, Wood (2004): "
+    },
+    {
+      "id": "B75",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "CR",
+          "name": "Osten-Sacken",
+          "lastname": "Osten-Sacken"
+        }
+      ],
+      "year": "1858",
+      "citation": "Osten-Sacken (1858): "
+    },
+    {
+      "id": "B76",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "CR",
+          "name": "Osten-Sacken",
+          "lastname": "Osten-Sacken"
+        }
+      ],
+      "year": "1878",
+      "citation": "Osten-Sacken (1878): "
+    },
+    {
+      "id": "B77",
+      "type": "article",
+      "title": "An essay of comparative chaetotaxy, or the arrangement of characteristic bristles of Diptera.",
+      "author": [
+        {
+          "firstname": "CR",
+          "name": "Osten-Sacken",
+          "lastname": "Osten-Sacken"
+        }
+      ],
+      "journal": {
+        "name": "Mittheilungen des M\u00fcnchener Entomologischen Vereins",
+        "volume": "5",
+        "pages": "121--138"
+      },
+      "year": "1881",
+      "citation": "Osten-Sacken (1881) An essay of comparative chaetotaxy, or the arrangement of characteristic bristles of Diptera.. Mittheilungen des M\u00fcnchener Entomologischen Vereins, 5: 121--138"
+    },
+    {
+      "id": "B78",
+      "type": "article",
+      "title": "An essay of comparative chaetotaxy, or the arrangement of characteristic bristles of Diptera.",
+      "author": [
+        {
+          "firstname": "CR",
+          "name": "Osten-Sacken",
+          "lastname": "Osten-Sacken"
+        }
+      ],
+      "journal": {
+        "name": "Transactions of the Entomological Society of London",
+        "volume": "1884",
+        "pages": "497--517"
+      },
+      "year": "1884",
+      "citation": "Osten-Sacken (1884) An essay of comparative chaetotaxy, or the arrangement of characteristic bristles of Diptera.. Transactions of the Entomological Society of London, 1884: 497--517"
+    },
+    {
+      "id": "B79",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "J",
+          "name": "Pantel",
+          "lastname": "Pantel"
+        }
+      ],
+      "year": "1910",
+      "citation": "Pantel (1910): "
+    },
+    {
+      "id": "B80",
+      "type": "article",
+      "title": "Phylogeny of the Tachinidae family-group.",
+      "author": [
+        {
+          "firstname": "T",
+          "name": "Pape",
+          "lastname": "Pape"
+        }
+      ],
+      "journal": {
+        "name": "Tijdschrift voor Entomologie",
+        "volume": "135",
+        "pages": "43--86"
+      },
+      "year": "1992",
+      "citation": "Pape (1992) Phylogeny of the Tachinidae family-group.. Tijdschrift voor Entomologie, 135: 43--86"
+    },
+    {
+      "id": "B81",
+      "type": "article",
+      "title": "Bezzimyia",
+      "author": [
+        {
+          "firstname": "T",
+          "name": "Pape",
+          "lastname": "Pape"
+        },
+        {
+          "firstname": "PH Jr",
+          "name": "Arnaud",
+          "lastname": "Arnaud"
+        }
+      ],
+      "journal": {
+        "name": "Zoologica Scripta",
+        "volume": "30",
+        "pages": "257--297"
+      },
+      "year": "2001",
+      "citation": "Pape, Arnaud (2001) Bezzimyia. Zoologica Scripta, 30: 257--297"
+    },
+    {
+      "id": "B82",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "T",
+          "name": "Pape",
+          "lastname": "Pape"
+        },
+        {
+          "firstname": "V",
+          "name": "Blagoderov",
+          "lastname": "Blagoderov"
+        },
+        {
+          "firstname": "MB",
+          "name": "Mostovski",
+          "lastname": "Mostovski"
+        }
+      ],
+      "year": "2011",
+      "citation": "Pape, Blagoderov, Mostovski (2011): "
+    },
+    {
+      "id": "B83",
+      "type": "article",
+      "title": "Fam. Tachinidae\u2014tachinids.",
+      "author": [
+        {
+          "firstname": "VS",
+          "name": "Sidorenko",
+          "lastname": "Sidorenko"
+        }
+      ],
+      "journal": {
+        "name": "Volume VI. Diptera and Siphonaptera. Part 3. Dal\u2019nauka, Vladivostok",
+        "pages": "148--398"
+      },
+      "year": "2004",
+      "citation": "Sidorenko (2004) Fam. Tachinidae\u2014tachinids.. Volume VI. Diptera and Siphonaptera. Part 3. Dal\u2019nauka, Vladivostok: 148--398"
+    },
+    {
+      "id": "B84",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "JB",
+          "name": "Robineau-Desvoidy",
+          "lastname": "Robineau-Desvoidy"
+        }
+      ],
+      "year": "1830",
+      "citation": "Robineau-Desvoidy (1830): "
+    },
+    {
+      "id": "B85",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "JB",
+          "name": "Robineau-Desvoidy",
+          "lastname": "Robineau-Desvoidy"
+        }
+      ],
+      "year": "1863",
+      "citation": "Robineau-Desvoidy (1863): "
+    },
+    {
+      "id": "B86",
+      "type": "article",
+      "title": "The Calliphoridae (blowflies) (Diptera: Oestroidea) are not a monophyletic group.",
+      "author": [
+        {
+          "firstname": "K",
+          "name": "Rognes",
+          "lastname": "Rognes"
+        }
+      ],
+      "journal": {
+        "name": "Cladistics",
+        "volume": "13",
+        "pages": "27--66"
+      },
+      "year": "1997",
+      "citation": "Rognes (1997) The Calliphoridae (blowflies) (Diptera: Oestroidea) are not a monophyletic group.. Cladistics, 13: 27--66"
+    },
+    {
+      "id": "B87",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "C",
+          "name": "Rondani",
+          "lastname": "Rondani"
+        }
+      ],
+      "year": "1856\u20131880",
+      "citation": "Rondani (1856\u20131880): "
+    },
+    {
+      "id": "B88",
+      "type": "article",
+      "title": "[Contribution to the morphology and evolution of the abdomen and genitalia of phasiine flies (Diptera, Phasiidae s. l.).",
+      "author": [
+        {
+          "firstname": "IA",
+          "name": "Rubtzov",
+          "lastname": "Rubtzov"
+        }
+      ],
+      "journal": {
+        "name": "] Trudy Vsesoyuznogo Entomologicheskogo Obshchestva",
+        "volume": "43",
+        "pages": "171--249"
+      },
+      "year": "1951",
+      "citation": "Rubtzov (1951) [Contribution to the morphology and evolution of the abdomen and genitalia of phasiine flies (Diptera, Phasiidae s. l.).. ] Trudy Vsesoyuznogo Entomologicheskogo Obshchestva, 43: 171--249"
+    },
+    {
+      "id": "B89",
+      "type": "article",
+      "title": "Rondani\u2019s \u201cDipterologiae italicae prodromus\u201d.",
+      "author": [
+        {
+          "firstname": "CW",
+          "name": "Sabrosky",
+          "lastname": "Sabrosky"
+        }
+      ],
+      "journal": {
+        "name": "Annals of the Entomological Society of America",
+        "volume": "54",
+        "pages": "827--831"
+      },
+      "year": "1961",
+      "citation": "Sabrosky (1961) Rondani\u2019s \u201cDipterologiae italicae prodromus\u201d.. Annals of the Entomological Society of America, 54: 827--831"
+    },
+    {
+      "id": "B90",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "CW",
+          "name": "Sabrosky",
+          "lastname": "Sabrosky"
+        }
+      ],
+      "year": "1999",
+      "citation": "Sabrosky (1999): "
+    },
+    {
+      "id": "B91",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "CW",
+          "name": "Sabrosky",
+          "lastname": "Sabrosky"
+        },
+        {
+          "firstname": "PH Jr",
+          "name": "Arnaud",
+          "lastname": "Arnaud"
+        }
+      ],
+      "year": "1965",
+      "citation": "Sabrosky, Arnaud (1965): "
+    },
+    {
+      "id": "B92",
+      "type": "article",
+      "title": "On the life-history of ",
+      "author": [
+        {
+          "firstname": "C",
+          "name": "Sasaki",
+          "lastname": "Sasaki"
+        }
+      ],
+      "journal": {
+        "name": "Journal of the College of Science, Imperial University, Japan ",
+        "volume": "1",
+        "pages": "1--46"
+      },
+      "year": "1887",
+      "citation": "Sasaki (1887) On the life-history of . Journal of the College of Science, Imperial University, Japan , 1: 1--46"
+    },
+    {
+      "id": "B93",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "JR",
+          "name": "Schiner",
+          "lastname": "Schiner"
+        }
+      ],
+      "year": "1860\u20131864",
+      "citation": "Schiner (1860\u20131864): "
+    },
+    {
+      "id": "B94",
+      "type": "article",
+      "title": "A new species of ",
+      "author": [
+        {
+          "firstname": "H",
+          "name": "Shima",
+          "lastname": "Shima"
+        }
+      ],
+      "journal": {
+        "name": "Annotationes Zoologicae Japonenses",
+        "volume": "56",
+        "pages": "338--350"
+      },
+      "year": "1983",
+      "citation": "Shima (1983) A new species of . Annotationes Zoologicae Japonenses, 56: 338--350"
+    },
+    {
+      "id": "B95",
+      "type": "article",
+      "title": "A revision of the genus ",
+      "author": [
+        {
+          "firstname": "H",
+          "name": "Shima",
+          "lastname": "Shima"
+        }
+      ],
+      "journal": {
+        "name": "Sieboldia, Supplement",
+        "volume": "1987",
+        "pages": "83--96"
+      },
+      "year": "1987",
+      "citation": "Shima (1987) A revision of the genus . Sieboldia, Supplement, 1987: 83--96"
+    },
+    {
+      "id": "B96",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "H",
+          "name": "Shima",
+          "lastname": "Shima"
+        }
+      ],
+      "year": "1989",
+      "citation": "Shima (1989): "
+    },
+    {
+      "id": "B97",
+      "type": "article",
+      "title": "Die verbreitetsten Tachiniden Mitteleuropas nach ihren Gattungen und Arten. Archiv f\u00fcr Naturgeschichte.",
+      "author": [
+        {
+          "firstname": "P",
+          "name": "Stein",
+          "lastname": "Stein"
+        }
+      ],
+      "journal": {
+        "name": "Abteilung A",
+        "volume": "90",
+        "issue": "6",
+        "pages": "1--271"
+      },
+      "year": "1924",
+      "citation": "Stein (1924) Die verbreitetsten Tachiniden Mitteleuropas nach ihren Gattungen und Arten. Archiv f\u00fcr Naturgeschichte.. Abteilung A, 90(6): 1--271"
+    },
+    {
+      "id": "B98",
+      "type": "article",
+      "title": "Phylogenetic relationships of tachinid flies in subfamily Exoristinae (Tachinidae: Diptera) based on 28S rDNA and elongation factor-1\u03b1.",
+      "author": [
+        {
+          "firstname": "JO III",
+          "name": "Stireman",
+          "lastname": "Stireman"
+        }
+      ],
+      "journal": {
+        "name": "Systematic Entomology",
+        "volume": "27",
+        "pages": "409--435"
+      },
+      "year": "2002",
+      "citation": "Stireman (2002) Phylogenetic relationships of tachinid flies in subfamily Exoristinae (Tachinidae: Diptera) based on 28S rDNA and elongation factor-1\u03b1.. Systematic Entomology, 27: 409--435"
+    },
+    {
+      "id": "B99",
+      "type": "article",
+      "title": "Phylogenetic reconstruction of Exoristinae using molecular data: a Bayesian re-analysis.",
+      "author": [
+        {
+          "firstname": "JO III",
+          "name": "Stireman",
+          "lastname": "Stireman"
+        }
+      ],
+      "journal": {
+        "name": "The Tachinid Times",
+        "volume": "18",
+        "pages": "4--6"
+      },
+      "year": "2005",
+      "citation": "Stireman (2005) Phylogenetic reconstruction of Exoristinae using molecular data: a Bayesian re-analysis.. The Tachinid Times, 18: 4--6"
+    },
+    {
+      "id": "B100",
+      "type": "article",
+      "title": "Progress towards a phylogeny of world Tachinidae. Year 1.",
+      "author": [
+        {
+          "firstname": "JO III",
+          "name": "Stireman",
+          "lastname": "Stireman"
+        },
+        {
+          "firstname": "JE",
+          "name": "O\u2019Hara",
+          "lastname": "O\u2019Hara"
+        },
+        {
+          "firstname": "JK",
+          "name": "Moulton",
+          "lastname": "Moulton"
+        },
+        {
+          "firstname": "P",
+          "name": "Cerretti",
+          "lastname": "Cerretti"
+        },
+        {
+          "firstname": "IS",
+          "name": "Winkler",
+          "lastname": "Winkler"
+        }
+      ],
+      "journal": {
+        "name": "The Tachinid Times",
+        "volume": "26",
+        "pages": "4--9"
+      },
+      "year": "2013",
+      "citation": "Stireman, O\u2019Hara, Moulton, Cerretti, Winkler (2013) Progress towards a phylogeny of world Tachinidae. Year 1.. The Tachinid Times, 26: 4--9"
+    },
+    {
+      "id": "B101",
+      "type": "article",
+      "title": "Molecular phylogeny of the subfamily Exoristinae (Diptera, Tachinidae), with discussions on the evolutionary history of female oviposition strategy.",
+      "author": [
+        {
+          "firstname": "T",
+          "name": "Tachi",
+          "lastname": "Tachi"
+        },
+        {
+          "firstname": "H",
+          "name": "Shima",
+          "lastname": "Shima"
+        }
+      ],
+      "journal": {
+        "name": "Systematic Entomology",
+        "volume": "35",
+        "pages": "148--163"
+      },
+      "year": "2010",
+      "citation": "Tachi, Shima (2010) Molecular phylogeny of the subfamily Exoristinae (Diptera, Tachinidae), with discussions on the evolutionary history of female oviposition strategy.. Systematic Entomology, 35: 148--163"
+    },
+    {
+      "id": "B102",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "WR",
+          "name": "Thompson",
+          "lastname": "Thompson"
+        }
+      ],
+      "year": "1961",
+      "citation": "Thompson (1961): "
+    },
+    {
+      "id": "B103",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "WR",
+          "name": "Thompson",
+          "lastname": "Thompson"
+        }
+      ],
+      "year": "1961\u20131968",
+      "citation": "Thompson (1961\u20131968): "
+    },
+    {
+      "id": "B104",
+      "type": "article",
+      "title": "The tachinids of Trinidad. III. The goniines with microtype eggs (Dipt. Tachinidae).",
+      "author": [
+        {
+          "firstname": "WR",
+          "name": "Thompson",
+          "lastname": "Thompson"
+        }
+      ],
+      "journal": {
+        "name": "Studia Entomologica",
+        "volume": "6",
+        "pages": "257--404"
+      },
+      "year": "1963",
+      "citation": "Thompson (1963) The tachinids of Trinidad. III. The goniines with microtype eggs (Dipt. Tachinidae).. Studia Entomologica, 6: 257--404"
+    },
+    {
+      "id": "B105",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "CHT",
+          "name": "Townsend",
+          "lastname": "Townsend"
+        }
+      ],
+      "year": "1908",
+      "citation": "Townsend (1908): "
+    },
+    {
+      "id": "B106",
+      "type": "article",
+      "title": "Announcement of further results secured in the study of muscoid flies.",
+      "author": [
+        {
+          "firstname": "CHT",
+          "name": "Townsend",
+          "lastname": "Townsend"
+        }
+      ],
+      "journal": {
+        "name": "Annals of the Entomological Society of America",
+        "volume": "4",
+        "pages": "127--152"
+      },
+      "year": "1911",
+      "citation": "Townsend (1911) Announcement of further results secured in the study of muscoid flies.. Annals of the Entomological Society of America, 4: 127--152"
+    },
+    {
+      "id": "B107",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "CHT",
+          "name": "Townsend",
+          "lastname": "Townsend"
+        }
+      ],
+      "year": "1934",
+      "citation": "Townsend (1934): "
+    },
+    {
+      "id": "B108",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "CHT",
+          "name": "Townsend",
+          "lastname": "Townsend"
+        }
+      ],
+      "year": "1934\u20131942",
+      "citation": "Townsend (1934\u20131942): "
+    },
+    {
+      "id": "B109",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "CHT",
+          "name": "Townsend",
+          "lastname": "Townsend"
+        }
+      ],
+      "year": "1935",
+      "citation": "Townsend (1935): "
+    },
+    {
+      "id": "B110",
+      "type": "article",
+      "title": "Charles H.T. Townsend.",
+      "author": [
+        {
+          "firstname": "CHT",
+          "name": "Townsend",
+          "lastname": "Townsend"
+        }
+      ],
+      "journal": {
+        "name": "Revista de Entomologia",
+        "volume": "14",
+        "pages": "311--313"
+      },
+      "year": "1943",
+      "citation": "Townsend (1943) Charles H.T. Townsend.. Revista de Entomologia, 14: 311--313"
+    },
+    {
+      "id": "B111",
+      "type": "article",
+      "title": "Taxonomie forstlich wichtiger Parasiten: Untersuchungen zur Struktur des m\u00e4nnlichen Postabdomens der Raupenfliegen (Diptera, Tachinidae).",
+      "author": [
+        {
+          "firstname": "HP",
+          "name": "Tschorsnig",
+          "lastname": "Tschorsnig"
+        }
+      ],
+      "journal": {
+        "name": "Stuttgarter Beitr\u00e4ge zur Naturkunde. Serie A (Biologie)",
+        "volume": "383",
+        "pages": "1--137"
+      },
+      "year": "1985",
+      "citation": "Tschorsnig (1985) Taxonomie forstlich wichtiger Parasiten: Untersuchungen zur Struktur des m\u00e4nnlichen Postabdomens der Raupenfliegen (Diptera, Tachinidae).. Stuttgarter Beitr\u00e4ge zur Naturkunde. Serie A (Biologie), 383: 1--137"
+    },
+    {
+      "id": "B112",
+      "type": "article",
+      "title": "Die Raupenfliegen (Diptera: Tachinidae) Mitteleuropas: Bestimmungstabellen und Angaben zur Verbreitung und \u00d6kologie der einzelnen Arten.",
+      "author": [
+        {
+          "firstname": "HP",
+          "name": "Tschorsnig",
+          "lastname": "Tschorsnig"
+        },
+        {
+          "firstname": "B",
+          "name": "Herting",
+          "lastname": "Herting"
+        }
+      ],
+      "journal": {
+        "name": "Stuttgarter Beitr\u00e4ge zur Naturkunde. Serie A (Biologie)",
+        "volume": "506",
+        "pages": "1--170"
+      },
+      "year": "1994",
+      "citation": "Tschorsnig, Herting (1994) Die Raupenfliegen (Diptera: Tachinidae) Mitteleuropas: Bestimmungstabellen und Angaben zur Verbreitung und \u00d6kologie der einzelnen Arten.. Stuttgarter Beitr\u00e4ge zur Naturkunde. Serie A (Biologie), 506: 1--170"
+    },
+    {
+      "id": "B113",
+      "type": "article",
+      "title": "Family Tachinidae.",
+      "author": [
+        {
+          "firstname": "L",
+          "name": "Papp",
+          "lastname": "Papp"
+        },
+        {
+          "firstname": "B",
+          "name": "Darvas",
+          "lastname": "Darvas"
+        }
+      ],
+      "journal": {
+        "name": "Volume 3. Higher Brachycera. Science Herald, Budapest",
+        "pages": "691--827"
+      },
+      "year": "1998",
+      "citation": "Papp, Darvas (1998) Family Tachinidae.. Volume 3. Higher Brachycera. Science Herald, Budapest: 691--827"
+    },
+    {
+      "id": "B114",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "HP",
+          "name": "Tschorsnig",
+          "lastname": "Tschorsnig"
+        },
+        {
+          "firstname": "VA",
+          "name": "Richter",
+          "lastname": "Richter"
+        },
+        {
+          "firstname": "P",
+          "name": "Cerretti",
+          "lastname": "Cerretti"
+        },
+        {
+          "firstname": "T",
+          "name": "Zeegers",
+          "lastname": "Zeegers"
+        },
+        {
+          "firstname": "C",
+          "name": "Bergstr\u00f6m",
+          "lastname": "Bergstr\u00f6m"
+        },
+        {
+          "firstname": "J",
+          "name": "Va\u0148hara",
+          "lastname": "Va\u0148hara"
+        },
+        {
+          "firstname": "G",
+          "name": "Van de Weyer",
+          "lastname": "Van de Weyer"
+        },
+        {
+          "firstname": "C",
+          "name": "Bystrowski",
+          "lastname": "Bystrowski"
+        },
+        {
+          "firstname": "C",
+          "name": "Raper",
+          "lastname": "Raper"
+        },
+        {
+          "firstname": "J",
+          "name": "Ziegler",
+          "lastname": "Ziegler"
+        },
+        {
+          "firstname": "Z",
+          "name": "Hubenov",
+          "lastname": "Hubenov"
+        }
+      ],
+      "year": "2004",
+      "citation": "Tschorsnig, Richter, Cerretti, Zeegers, Bergstr\u00f6m, Va\u0148hara, Van de Weyer, Bystrowski, Raper, Ziegler, Hubenov (2004): "
+    },
+    {
+      "id": "B115",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "J",
+          "name": "Verbeke",
+          "lastname": "Verbeke"
+        }
+      ],
+      "year": "1962a",
+      "citation": "Verbeke (1962a): "
+    },
+    {
+      "id": "B116",
+      "type": "article",
+      "title": "Tachinidae I (Diptera Brachycera). Exploration du Parc National de la Garamba. Mission H.",
+      "author": [
+        {
+          "firstname": "J",
+          "name": "Verbeke",
+          "lastname": "Verbeke"
+        }
+      ],
+      "journal": {
+        "name": "de Saeger",
+        "volume": "27",
+        "pages": "1--76"
+      },
+      "year": "1962b",
+      "citation": "Verbeke (1962b) Tachinidae I (Diptera Brachycera). Exploration du Parc National de la Garamba. Mission H.. de Saeger, 27: 1--76"
+    },
+    {
+      "id": "B117",
+      "type": "article",
+      "title": "The structure of the male genitalia in Tachinidae (Diptera) and their taxonomic value.",
+      "author": [
+        {
+          "firstname": "J",
+          "name": "Verbeke",
+          "lastname": "Verbeke"
+        }
+      ],
+      "journal": {
+        "name": "Stuttgarter Beitr\u00e4ge zur Naturkunde",
+        "volume": "114",
+        "pages": "1--5"
+      },
+      "year": "1963",
+      "citation": "Verbeke (1963) The structure of the male genitalia in Tachinidae (Diptera) and their taxonomic value.. Stuttgarter Beitr\u00e4ge zur Naturkunde, 114: 1--5"
+    },
+    {
+      "id": "B118",
+      "type": "article",
+      "title": "Contribution a la classification des \"Tachinidae\" pal\u00e9arctiques.",
+      "author": [
+        {
+          "firstname": "J",
+          "name": "Villeneuve",
+          "lastname": "Villeneuve"
+        }
+      ],
+      "journal": {
+        "name": "Annales des Sciences Naturelles. Zoologie, S\u00e9r. 10",
+        "volume": "7",
+        "pages": "5--39"
+      },
+      "year": "1924",
+      "citation": "Villeneuve (1924) Contribution a la classification des \"Tachinidae\" pal\u00e9arctiques.. Annales des Sciences Naturelles. Zoologie, S\u00e9r. 10, 7: 5--39"
+    },
+    {
+      "id": "B119",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "J",
+          "name": "Villeneuve",
+          "lastname": "Villeneuve"
+        }
+      ],
+      "year": "1933",
+      "citation": "Villeneuve (1933): "
+    },
+    {
+      "id": "B120",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "CJ",
+          "name": "Wainwright",
+          "lastname": "Wainwright"
+        }
+      ],
+      "year": "1928",
+      "citation": "Wainwright (1928): "
+    },
+    {
+      "id": "B121",
+      "type": "article",
+      "title": "A revision of the New World Exoristini (Diptera: Tachinidae). I. ",
+      "author": [
+        {
+          "firstname": "DM",
+          "name": "Wood",
+          "lastname": "Wood"
+        }
+      ],
+      "journal": {
+        "name": "Canadian Entomologist",
+        "volume": "104",
+        "pages": "471--503"
+      },
+      "year": "1972",
+      "citation": "Wood (1972) A revision of the New World Exoristini (Diptera: Tachinidae). I. . Canadian Entomologist, 104: 471--503"
+    },
+    {
+      "id": "B122",
+      "type": "article",
+      "title": "A taxonomic conspectus of the Blondeliini of North and Central America and the West Indies (Diptera: Tachinidae). ",
+      "author": [
+        {
+          "firstname": "DM",
+          "name": "Wood",
+          "lastname": "Wood"
+        }
+      ],
+      "journal": {
+        "name": "Memoirs of the Entomological Society of Canada",
+        "volume": "132"
+      },
+      "year": "1985",
+      "identifier": [
+        {
+          "type": "doi",
+          "id": "10.4039\/entm117132fv"
+        }
+      ],
+      "citation": "Wood (1985) A taxonomic conspectus of the Blondeliini of North and Central America and the West Indies (Diptera: Tachinidae). . Memoirs of the Entomological Society of Canada, 132"
+    },
+    {
+      "id": "B123",
+      "type": "article",
+      "title": "Tachinidae.",
+      "author": [
+        {
+          "firstname": "JF",
+          "name": "McAlpine",
+          "lastname": "McAlpine"
+        },
+        {
+          "firstname": "BV",
+          "name": "Peterson",
+          "lastname": "Peterson"
+        },
+        {
+          "firstname": "GE",
+          "name": "Shewell",
+          "lastname": "Shewell"
+        },
+        {
+          "firstname": "HJ",
+          "name": "Teskey",
+          "lastname": "Teskey"
+        },
+        {
+          "firstname": "JR",
+          "name": "Vockeroth",
+          "lastname": "Vockeroth"
+        },
+        {
+          "firstname": "DM",
+          "name": "Wood",
+          "lastname": "Wood"
+        }
+      ],
+      "journal": {
+        "name": "Agriculture Canada Monograph",
+        "volume": "28",
+        "pages": "1193--1269"
+      },
+      "year": "1987",
+      "citation": "McAlpine, Peterson, Shewell, Teskey, Vockeroth, Wood (1987) Tachinidae.. Agriculture Canada Monograph, 28: 1193--1269"
+    },
+    {
+      "id": "B124",
+      "type": "article",
+      "title": "Tachinidae (tachinid flies, parasitic flies).",
+      "author": [
+        {
+          "firstname": "BV",
+          "name": "Brown",
+          "lastname": "Brown"
+        },
+        {
+          "firstname": "A",
+          "name": "Borkent",
+          "lastname": "Borkent"
+        },
+        {
+          "firstname": "JM",
+          "name": "Cumming",
+          "lastname": "Cumming"
+        },
+        {
+          "firstname": "DM",
+          "name": "Wood",
+          "lastname": "Wood"
+        },
+        {
+          "firstname": "NE",
+          "name": "Woodley",
+          "lastname": "Woodley"
+        },
+        {
+          "firstname": "MA",
+          "name": "Zumbado",
+          "lastname": "Zumbado"
+        }
+      ],
+      "journal": {
+        "name": "Volume 2. NRC Research Press, Ottawa",
+        "pages": "1343--1417"
+      },
+      "year": "2010",
+      "citation": "Brown, Borkent, Cumming, Wood, Woodley, Zumbado (2010) Tachinidae (tachinid flies, parasitic flies).. Volume 2. NRC Research Press, Ottawa: 1343--1417"
+    },
+    {
+      "id": "B125",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "FM van der ",
+          "name": "Wulp",
+          "lastname": "Wulp"
+        }
+      ],
+      "year": "1888\u20131903",
+      "citation": "Wulp (1888\u20131903): "
+    },
+    {
+      "id": "B126",
+      "type": "article",
+      "title": "Phylogeny and systematics of Diptera: two decades of progress and prospects.",
+      "author": [
+        {
+          "firstname": "DK",
+          "name": "Yeates",
+          "lastname": "Yeates"
+        },
+        {
+          "firstname": "BM",
+          "name": "Wiegmann",
+          "lastname": "Wiegmann"
+        },
+        {
+          "firstname": "GW",
+          "name": "Courtney",
+          "lastname": "Courtney"
+        },
+        {
+          "firstname": "R",
+          "name": "Meier",
+          "lastname": "Meier"
+        },
+        {
+          "firstname": "C",
+          "name": "Lambkin",
+          "lastname": "Lambkin"
+        },
+        {
+          "firstname": "T",
+          "name": "Pape",
+          "lastname": "Pape"
+        }
+      ],
+      "journal": {
+        "name": "Zootaxa",
+        "volume": "1668",
+        "pages": "565--590"
+      },
+      "year": "2007",
+      "citation": "Yeates, Wiegmann, Courtney, Meier, Lambkin, Pape (2007) Phylogeny and systematics of Diptera: two decades of progress and prospects.. Zootaxa, 1668: 565--590"
+    },
+    {
+      "id": "B127",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "JW",
+          "name": "Zetterstedt",
+          "lastname": "Zetterstedt"
+        }
+      ],
+      "year": "1842\u20131860",
+      "citation": "Zetterstedt (1842\u20131860): "
+    },
+    {
+      "id": "B128",
+      "type": "generic",
+      "author": [
+        {
+          "firstname": "J",
+          "name": "Ziegler",
+          "lastname": "Ziegler"
+        }
+      ],
+      "year": "1998",
+      "citation": "Ziegler (1998): "
+    }
+  ]
+}
